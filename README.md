@@ -1,0 +1,1 @@
+Basic project structure for react with redux and thunk
